@@ -30,7 +30,7 @@ This realization inspired me to build a financial advisor that looks at financia
 
 ## 🚀 Live Demo
 
-👉 Try it out here: 🌐 **[Streamlit App](YOUR_STREAMLIT_APP_LINK)**
+👉 Try it out here: 🌐 [Streamlit App](https://ei59oow5kfyjmuvmb8oqd5.streamlit.app/)
 
 ---
 
