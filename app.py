@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 import pandas as pd
-data = joblib.load(r"C:\Users\nairuti\Downloads\all_models.pkl")
+data = joblib.load("all_models (1).pkl")
 targets = [
     "debt_focus",
     "emergency_fund_status",
