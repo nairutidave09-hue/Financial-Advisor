@@ -51,6 +51,41 @@ The system includes:
 🤖 **Multi-Target Machine Learning:** Uses separate trained models for different financial recommendation targets.
 
 ---
+## 📊 Data Source
+
+The dataset used in this project was obtained from a World Bank report analyzing financial and economic conditions across different populations and regions.
+
+📄 **Source Report:** [View the World Bank Report](World_Bank_Report.pdf)
+---
+## 📥 Input Features
+
+The application uses the following information:
+
+- Monthly Income
+- Monthly Expenses
+- Distance to College/Work
+- Travel Time by Bus
+- Monthly Transport Cost
+- Bus Frequency
+- Family Size
+- Current Vehicle
+- Monthly Loan Payment
+- Current Savings
+
+---
+
+## 📤 Predictions
+
+Based on the user's inputs, the system predicts:
+
+| Prediction | Description |
+|---|---|
+| 💳 Debt Focus | Whether debt management should be prioritized |
+| 🛟 Emergency Fund Status | Recommendation regarding emergency savings |
+| 📈 Investment Advice | Personalized investment-related recommendation |
+| 🚗 Car Recommendation | Whether a vehicle may be financially and practically suitable |
+
+---
 
 ## 🧠 Machine Learning Models
 
@@ -93,36 +128,6 @@ Each model includes preprocessing for numerical and categorical features.
 ### Frontend & Deployment
 
 - Streamlit
-
----
-
-## 📥 Input Features
-
-The application uses the following information:
-
-- Monthly Income
-- Monthly Expenses
-- Distance to College/Work
-- Travel Time by Bus
-- Monthly Transport Cost
-- Bus Frequency
-- Family Size
-- Current Vehicle
-- Monthly Loan Payment
-- Current Savings
-
----
-
-## 📤 Predictions
-
-Based on the user's inputs, the system predicts:
-
-| Prediction | Description |
-|---|---|
-| 💳 Debt Focus | Whether debt management should be prioritized |
-| 🛟 Emergency Fund Status | Recommendation regarding emergency savings |
-| 📈 Investment Advice | Personalized investment-related recommendation |
-| 🚗 Car Recommendation | Whether a vehicle may be financially and practically suitable |
 
 ---
 
