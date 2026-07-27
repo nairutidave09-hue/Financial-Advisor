@@ -8,7 +8,7 @@ A machine learning-powered financial recommendation system that provides persona
 
 As a finance and investment enthusiast, I have always preferred investing in assets rather than spending money on depreciating assets.
 
-Recently, I bought a gold chain with the thought that if I ever needed money in the future, I could sell it and recover most of its value. However, after going out recently, I realized something important: sometimes, a depreciating asset can be more useful than an asset that preserves its monetary value.
+Recently, I bought gold with the thought that if I ever needed money in the future, I could sell it and recover most of its value. However, after going out recently, I realized something important: sometimes, a depreciating asset can be more useful than an asset that preserves its monetary value.
 
 A vehicle may depreciate over time, but it can provide mobility, convenience, safety, and accessibility when you actually need it.
 
