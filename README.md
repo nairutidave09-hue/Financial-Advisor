@@ -77,9 +77,11 @@ Each model includes preprocessing for numerical and categorical features.
 
 ### Libraries
 
-- pandas
-- scikit-learn
-- joblib
+- pandas — Data manipulation and analysis
+- NumPy — Numerical computing
+- Matplotlib — Data visualization
+- scikit-learn — Machine learning and preprocessing
+- joblib — Model serialization and loading
 
 ### Machine Learning
 
@@ -91,10 +93,6 @@ Each model includes preprocessing for numerical and categorical features.
 ### Frontend & Deployment
 
 - Streamlit
-
-### Model Persistence
-
-- Joblib
 
 ---
 
